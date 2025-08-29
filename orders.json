@@ -28,10 +28,10 @@
     "orderDate": "26-08-2025",
     "deliveryDate": "02-09-2025, 15:30 Uhr",
     "pickup": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
+      "street": "Industriestraße 14b",
+      "postal_code": "94036",
+      "city": "Passau",
+      "country": "Deutschland",
       "lat": "",
       "lng": ""
     },
